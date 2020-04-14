@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2018/7/18
+; Date: 2020/4/14
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; IP地址的
@@ -317,3 +317,30 @@
 
 ; gitee 码云
 *.gitee.com
+
+; new
+*.virscan.org
+*.163.com
+*.bilibili.com
+*.razord.top
+*.ruanyifeng.com
+*.caiyunapp.com
+!*.codecogs.com
+!*.gstatic.com
+*.leetcode-cn.com
+*.mokahr.com
+*.letvimg.com
+*.hdslb.com
+*.zhipin.com
+*.sf-express.com
+*.jb51.net
+*.segmentfault.com
+*.oschina.net
+*.runoob.com
+*.chinahr.com
+*.cnblogs.com
+*.ftqq.com
+*.nowcoder.com
+
+
+github.com
