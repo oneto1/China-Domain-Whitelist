@@ -319,14 +319,20 @@
 *.gitee.com
 
 ; new
+*.studygolang.com
+*.superlib.net
+*.weiyun.com
+*.gfan.com
+*.pitzcarraldo.github.io
+*.kanzhun.com
+*.bilivideo.com
+*.bilibili.com
+*.douban.com
 *.virscan.org
 *.163.com
-*.bilibili.com
 *.razord.top
 *.ruanyifeng.com
 *.caiyunapp.com
-!*.codecogs.com
-!*.gstatic.com
 *.leetcode-cn.com
 *.mokahr.com
 *.letvimg.com
@@ -343,4 +349,3 @@
 *.nowcoder.com
 
 
-github.com
