@@ -319,6 +319,28 @@
 *.gitee.com
 
 ; new
+*.mooc.com
+*.xybsyw.com
+*.mo.fish
+*.tool.lu
+*.flutter-go.pub
+*.virscan.org
+!*.lanzous.com
+*.taobao.com
+*.baidu.com
+*.rrys2020.com
+*.rrys.tv
+*.notok.cf
+*.razord.top
+39.105.120.140
+*.xishanju.com
+*.bytedance.com
+*.coolapk.com
+*.imooc.com
+*.baidupan.com
+*.chaoxing.com
+*.jianshu.com
+*.51cto.com
 *.studygolang.com
 *.superlib.net
 *.weiyun.com
@@ -328,9 +350,7 @@
 *.bilivideo.com
 *.bilibili.com
 *.douban.com
-*.virscan.org
 *.163.com
-*.razord.top
 *.ruanyifeng.com
 *.caiyunapp.com
 *.leetcode-cn.com
@@ -347,5 +367,3 @@
 *.cnblogs.com
 *.ftqq.com
 *.nowcoder.com
-
-
